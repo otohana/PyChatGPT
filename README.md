@@ -19,6 +19,8 @@ Basically, the script logs in on your behalf, using a TLS client, then grabs the
 - [x] Automatically refreshes the access token when it expires
 - [x] Uses colorama to colorize the output, because why not?
 - [x] Smart Conversation Tracking 
+This branch is committed to build a ChatGPT tailored for chromium developer. ChatGPT itself doesn't have much knowledge of chromium, however, we can feed important source code to ChatGPT and make this happen!😀
+- [ ] Automatically feed chromium source code after login & before chat 
 
 <p align="center"><i>Chatting</i></p>
 
